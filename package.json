@@ -1,0 +1,14 @@
+{
+  "name": "mistral-ocr",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@mistralai/mistralai": "^1.5.1"
+  }
+}
